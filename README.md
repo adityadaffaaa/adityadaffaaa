@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Nusantara Sakti Group as a Mobile Developer<br>
+🔭 I’m currently working on Nusantara Sakti Group as a Mobile Developer using Flutter<br>
 
 
 ## 🌐 Socials:
