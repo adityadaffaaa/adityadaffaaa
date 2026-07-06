@@ -19,9 +19,9 @@
 # Portfolio Website:
 https://daffafawwazaditya.netlify.app/
 
-## 🐍 GitHub Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/adityadaffaaa/adityadaffaaa/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![snake gif](https://raw.githubusercontent.com/adityadaffaaa/adityadaffaaa/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
+## My Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adityadaffaaa/adityadaffaaa/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light mode" />
+  <img src="https://raw.githubusercontent.com/adityadaffaaa/adityadaffaaa/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark mode" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
